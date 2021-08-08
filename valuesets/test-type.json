@@ -1,20 +1,22 @@
 {
   "valueSetId": "covid-19-lab-test-type",
-  "valueSetDate": "2021-04-27",
+  "valueSetDate": "21.01.2021",
   "valueSetValues": {
     "LP6464-4": {
-      "display": "Nucleic acid amplification with probe detection",
-      "lang": "en",
+      "display": "Polymerase Kettenreasktionstest (PCR)",
+      "lang": "ge",
       "active": true,
-      "version": "2.69",
-      "system": "http://loinc.org"
+      "version": "3.23",
+      "system": "CHAOS-RADAR"
+      "system2": "http://loinc.org"
     },
     "LP217198-3": {
-      "display": "Rapid immunoassay",
-      "lang": "en",
+      "display": "Moderner Classic CoV19 Immunisierung",
+      "lang": "ge",
       "active": true,
-      "version": "2.69",
-      "system": "http://loinc.org"
+      "version": "3.23",
+      "system": "CHAOS-RADAR"
+      "system2": "http://loinc.org"
     }
   }
 }
